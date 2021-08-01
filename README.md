@@ -1,6 +1,6 @@
 ### Welcome to Thu's GitHub :four_leaf_clover:
 
-My name is Thu Dang (pronounced like 'too dang') and I am an aspiring analytic consultant.
+My name is Thu Dang (pronounced like 'too dang') and I am an aspiring Product Manager/Analytic Consultant.
 
 - 🔭 I'm currently a Summer Analytics Consultant at Deloitte Consulting in Singapore.
 - 🌱 I am also a rising junior at Macalester College in Minnesota, studying Applied Mathematics & Statistics (major), Computer Science (minor), and Community & Global Health (concentration).
