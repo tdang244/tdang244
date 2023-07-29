@@ -1,8 +1,8 @@
 ### Welcome to Thu's GitHub :four_leaf_clover:
 
-My name is Thu Dang (pronounced like 'too dang') and I am an aspiring Data Scientist.
+My name is Thu Dang (pronounced like 'too dang') and I am a data enthusiast ❣️
 
-🔭 I'm currently an Analytics Engineer at Lucid Software. Before that, I graduated Summa Cum Laude from Macalester College with a BA in Applied Mathematics and Statistics 
+🔭 I'm currently an Analytics Engineer at Lucid Software. Before that, I graduated Summa Cum Laude from Macalester College with a BA in Applied Mathematics and Statistics. 
 
 🌱 Before embarking on my new journey as an Analytics Engineer, I've been working in different data capacities: 
 -   :sparkles: Spring 2023: Data Science Intern in the Analytics Engineering team at Sezzle
