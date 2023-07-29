@@ -2,11 +2,11 @@
 
 My name is Thu Dang (pronounced like 'too dang') and I am an aspiring Data Scientist.
 
-🔭 I'm currently studying Applied Mathematics and Statistics with a concentration in Community and Global Health at Macalester College. 
+🔭 I'm currently an Analytics Engineer at Lucid Software. Before that, I graduated Summa Cum Laude from Macalester College with a BA in Applied Mathematics and Statistics 
 
-:dart: This past summer, Summer 2022, I got an opportunity to be a Data Scientist Intern at an NYC-based startup called Up&Up - a Series B tech-enabled real estate startup that helps renters build wealth like owners, backed by Founders Fund, Khosla Ventures, and strategic angels from Opendoor, Morgan Stanley, JP Morgan, and Millennium.
-
-🌱 Before this internship, I've accumulated my skillset in various internships, ranging from analytics to consulting. Some of my milestones are:
+🌱 Before embarking on my new journey as an Analytics Engineer, I've been working in different data capacities: 
+-   :sparkles: Spring 2023: Data Science Intern in the Analytics Engineering team at Sezzle
+-   :sparkles: Summer 2022: Data Science Intern at an NYC-based startup called Up&Up - a Series B tech-enabled real estate startup that helps renters build wealth like owners, backed by Founders Fund, Khosla Ventures, and strategic angels from Opendoor, Morgan Stanley, JP Morgan, and Millennium
 - 	:sparkles: 2021: Summer Analytics Consultant at Deloitte Consulting in Singapore
 - 	:sparkles: 2021: Case Team Assistant at Boston Consulting Group (BCG)
 - 	:sparkles: 2020: Data Analytics Intern at MoMo, a tech unicorn in Vietnam
