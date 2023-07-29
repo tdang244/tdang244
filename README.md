@@ -16,7 +16,7 @@ My name is Thu Dang (pronounced like 'too dang') and I am a data enthusiast ❣�
 
 :bulb: I am well-versed in R, Python, SQL (BigQuery), and DataStudio. I'm recently crazy about `dbt` and the capacity of writing cool `SQL` functions with `jinja`. During Deloitte, I also get acquainted with Google Cloud Platform and its services, including Cloud Run, Workflows, and BigQuery. At Up&Up, I gained more knowledge in Retool - a website building service - and different visualization platforms such as Mode and Metabase.
 
-📫 You can reach me at tdang@macalester.edu and visit my GitBook here: https://thudang.gitbook.io/dataland/
+📫 You can reach me at tdang@macalester.edu or thuanhdang244@gmail.com and visit my GitBook here: https://thudang.gitbook.io/dataland/
 
 ⚡ Fun fact: 
 1. Out of all the English books sold in Vietnam, I can tell whether a book is published in the US or UK just from its smell. 
