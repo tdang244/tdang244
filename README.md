@@ -16,7 +16,7 @@ My name is Thu Dang (or "two" ✌️) and I am a data and AI-fairness enthusiast
 
 :bulb: I am well-versed in R, Python, SQL (BigQuery), and DataStudio. I love `dbt` and its use of `jinja` to enrich `SQL` codes and lend it some Python behaviors, i.e. the ability to create a function aka macro and for loops. During Deloitte, I also get acquainted with Google Cloud Platform and its services, including Cloud Run, Workflows, and BigQuery. At Up&Up, I gained more knowledge in Retool - a website building service - and different visualization platforms such as Mode and Metabase.
 
-📫 You can reach me at tdang@macalester.edu or thuanhdang244@gmail.com and visit my website at https://tdang244.github.io/ (still under construction and revision).
+📫 You can reach me at thuanhdang244@gmail.com and visit my website at https://tdang244.github.io/ (still under construction and revision).
 
 ⚡ Fun fact: 
 1. Out of all the English books sold in Vietnam, I can tell whether a book is published in the US or UK just from its smell. 
