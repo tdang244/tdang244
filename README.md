@@ -1,23 +1,42 @@
-### Welcome to Thu's GitHub :four_leaf_clover:
+# Hi, I'm Thu (pronounced "two" ✌️)
+ 
+I'm an incoming **MS Information Studies** student at **UT Austin's iSchool** (Fall 2026), with coursework spanning the **School of Computing**, where I'll be focusing on AI fairness and algorithmic accountability. My research interest sits at the intersection of two questions: *when do machine learning systems treat people unequally*, and *can we actually explain why*?
+ 
+Before grad school, I spent three years as an Analytics Engineer at Lucid Software, building data infrastructure for customer experience teams. Before that, I studied **Applied Mathematics and Statistics** (Summa Cum Laude, Phi Beta Kappa) at Macalester College, with a minor in Computer Science.
 
-My name is Thu Dang (or "two" ✌️) and I am a data and AI-fairness enthusiast ❣️
+---
 
-🔭 I'm currently an Analytics Engineer II at Lucid Software. Prior to this, I graduated Summa Cum Laude from Macalester College with a BA in Applied Mathematics and Statistics and a minor in Computer Science. 
+## What I'm working on
 
-🌱 Before embarking on my new journey as an Analytics Engineer, I've been working in different data capacities: 
--   :sparkles: Spring 2023: Data Science Intern in the Analytics Engineering team at Sezzle
--   :sparkles: Summer 2022: Data Science Intern at an NYC-based startup called Up&Up - a Series B tech-enabled real estate startup that helps renters build wealth like owners, backed by Founders Fund, Khosla Ventures, and strategic angels from Opendoor, Morgan Stanley, JP Morgan, and Millennium
-- 	:sparkles: 2021: Summer Analytics Consultant at Deloitte Consulting in Singapore
-- 	:sparkles: 2021: Case Team Assistant at Boston Consulting Group (BCG)
-- 	:sparkles: 2020: Data Analytics Intern at MoMo, a tech unicorn in Vietnam
-- 	:sparkles: 2019: Strategy and Insights Intern at Mindshare, a leading global media agency 
+- **AI fairness audits**: evaluating demographic parity, equalized odds, and calibration tradeoffs on real datasets using `fairlearn` and `aif360`
+- **Explainability tooling**: SHAP-based model interpretation with a focus on whether explanations differ across demographic groups
+- **LLM bias evaluation**: probing pre-trained language models on established benchmarks (WinoBias, StereoSet)
 
-:mag: As I discover my passion in the intersection of business and data analytics, I would love to combine my skills in these fields in order to deliver data-driven insights for business problems.
+---
 
-:bulb: I am well-versed in R, Python, SQL (BigQuery), and DataStudio. I love `dbt` and its use of `jinja` to enrich `SQL` codes and lend it some Python behaviors, i.e. the ability to create a function aka macro and for loops. During Deloitte, I also get acquainted with Google Cloud Platform and its services, including Cloud Run, Workflows, and BigQuery. At Up&Up, I gained more knowledge in Retool - a website building service - and different visualization platforms such as Mode and Metabase.
+## Technical stack
 
-📫 You can reach me at thuanhdang244@gmail.com and visit my website at https://tdang244.github.io/ (still under construction and revision).
+**Languages**: Python, R, SQL, JavaScript  
+**ML / Fairness**: scikit-learn, fairlearn, aif360, SHAP, HuggingFace Transformers  
+**Data**: dbt, Snowflake, pandas, Plotly, Seaborn, ggplot  
+**Other**: React, Google Cloud Platform (Cloud Run, BigQuery, Workflows)
 
-⚡ Fun fact: 
-1. Out of all the English books sold in Vietnam, I can tell whether a book is published in the US or UK just from its smell. 
-2. At 16, I left Vietnam to study in India and shaved my head for the first time to donate hair to cancer patients.
+---
+
+## Background
+
+I grew up in Vietnam, studied in India at age 16 (United World College), and have spent the years since working across data roles in Southeast Asia, Singapore, New York, and Austin. I've worked at BCG, Deloitte Singapore, and a Series B NYC fintech startup, and I've taught Data Analytics to university students in Vietnam.
+
+That path has made me acutely aware of how data systems can encode existing inequalities, especially across geographic and cultural contexts that tend to be underrepresented in benchmark datasets. That's the problem I want to work on.
+
+---
+
+## Let's connect
+
+📧 anhthu2441999@gmail.com  
+🌐 [tdang244.github.io](https://tdang244.github.io)
+📍 Austin, TX
+
+---
+
+*Open to research collaborations, GRA opportunities, and conversations about fairness-aware ML.*
